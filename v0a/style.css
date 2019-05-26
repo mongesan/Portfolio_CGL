@@ -1,0 +1,28 @@
+/*      全体に付与      */
+body{
+    background-color:#404040;
+    margin: 0;
+}
+
+/*      ヘッダー      */
+div.header{
+    background-color: #ffffff;
+    height: 220px;
+}
+
+div.header h1{
+    font-family: 'Megrim', cursive;
+    color: #000000;
+    font-size: 60px;
+    text-shadow: 0px 0px 30px #000000bf;
+    text-align: center;
+    line-height: 220px;
+    margin: 0;
+    
+}
+
+/*      メニュー        */
+div.menu{
+    background-color: #6464ff;
+    height: 80px;
+}
