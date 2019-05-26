@@ -4,4 +4,4 @@
 
 | Link(version) | Description | Source |
 | - | - | - |
-| v0 | make this repository | [here](https://github.com/mongesan/Portfolio_CGL) |
+|  |  |  |
