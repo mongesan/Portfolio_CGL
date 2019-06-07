@@ -26,3 +26,47 @@ div.menu{
     background-color: #6464ff;
     height: 80px;
 }
+
+/*      近況報告        */
+div.updates{
+    background: repeating-linear-gradient(45deg, #091528, #091528 10px, #050520 0, #050520 50px);
+    height: 320px;
+}
+
+/*      ここからメインコンテンツ        */
+
+/*  stories */
+div.stories{
+    height: 320px;
+}
+    /*  about   */
+    div.stories div.about{
+        background: repeating-linear-gradient(0deg, #191122, #191122 10px, #110315 0, #110315 50px);
+    }
+
+    /*  cut45   */
+    div.stories div.cut45{
+        background: black;
+        height: 320px;
+        width: 320px;
+        margin:0 auto;
+    }
+
+    /*  history */
+    div.stories div.history{
+
+    }
+
+/*  projects    */
+div.projects{
+    background: #180511;
+    background-image: radial-gradient(#27141d 10%, transparent 20%),
+    radial-gradient(#27141d 20%, transparent 20%);
+    background-size: 50px 50px;
+    height: 320px;
+}
+
+/* history  */
+
+
+/*  contacts    */
